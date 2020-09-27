@@ -1,0 +1,26 @@
+{
+  "name": "jaegyunbot",
+  "version": "1.0.0",
+  "description": "Sing bot",
+  "main": "JaeGyun.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cropMr/JaeGyunBot.git"
+  },
+  "author": "HoduGwaja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cropMr/JaeGyunBot/issues"
+  },
+  "homepage": "https://github.com/cropMr/JaeGyunBot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "ng2-file-upload": "^1.4.0",
+    "opusscript": "0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.3.0"
+  }
+}
